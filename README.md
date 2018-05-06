@@ -13,5 +13,5 @@ In this project, I was tasked to create a Python script that would analyze finan
 In this project, I was tasked to create a Python script that would be able to convert employee records to a company's new HR software system.  With the sets of employee data (given in CSV form) and Python, I was able to manipulate the data in order to create a smooth transition between softwares by:
 * Splitting the Name column into seperate First Name and Last Name columns
 * Re-writing the DOB data into DD/MM/YYYY format
-* Re-writing the SSN data to only show the last four digits (i.e. ***-**-1234)***
+* Re-writing the SSN data to only show the last four digits (i.e. xxx-xx-1234)
 * Re-writing the State data to a simple two-letter abbreviations
